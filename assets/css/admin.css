@@ -1,0 +1,5 @@
+/* admin.css - estilos do painel */
+.card-counter { border-radius: 8px; box-shadow: 0 6px 18px rgba(0,0,0,0.04); }
+.card-counter .display-6 { font-size: 2.2rem; }
+.card { border: none; }
+body { font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif; }
